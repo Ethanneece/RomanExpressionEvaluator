@@ -1,0 +1,3 @@
+varI est II times IV minus III plus (IX divide III plus V)
+varII est varI times (varI minus I) divide varI
+varIII est varI power II minus varII

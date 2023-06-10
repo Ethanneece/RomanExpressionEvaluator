@@ -1,0 +1,4 @@
+varI est III modulo II
+varII est varI plus III modulo II
+varIII est IV power varII modulo (III times III plus VI minus II times II)
+varIV est (varI plus varIII) power varII modulo (varII power varIII)
